@@ -1,5 +1,3 @@
-require 'pry'
-
 def mario
   phrase = "It's-a me, Mario!"
   puts phrase
@@ -15,7 +13,6 @@ def link
   puts warning
 end
 
-def all_phrases
-  binding.pry
-  puts mario toadstool link
+def all_phrases (character)
+  puts character
 end
