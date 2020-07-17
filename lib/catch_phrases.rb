@@ -1,3 +1,5 @@
+require 'pry'
+
 def mario
   phrase = "It's-a me, Mario!"
   puts phrase
@@ -15,4 +17,5 @@ end
 
 def all_phrases
   puts mario toadstool link
+  binding.pry
 end
