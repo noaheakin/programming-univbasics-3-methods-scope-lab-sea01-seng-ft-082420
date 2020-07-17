@@ -11,3 +11,9 @@ end
 def link
   warning = "It's Dangerous To Go Alone! Take This."
   puts warning
+end
+
+def all_phrases
+  puts mario toadstool link
+end
+
