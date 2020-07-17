@@ -16,7 +16,6 @@ def link
 end
 
 def all_phrases
-  puts mario toadstool link
   binding.pry
-  sum
+  puts mario toadstool link
 end
