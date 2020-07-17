@@ -13,6 +13,8 @@ def link
   puts warning
 end
 
-def all_phrases (character)
-  puts character
+def all_phrases
+  puts mario
+  puts toadstool
+  puts links
 end
